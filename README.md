@@ -6,9 +6,26 @@ Github is a tool to track changes in code during software development.GitHub is 
 
 VERSION CONTROL:
 
- GitHub uses Git, a distributed version control system that tracks changes to your code. Git allows multiple developers to work on a project simultaneously without overwriting each other's changes. It keeps a history of all changes, making it easy to revert to previous versions if needed. 
+ GitHub uses Git, a distributed version control system that tracks changes to your code. Git allows multiple developers to work on a project simultaneously without overwriting each other's changes. It keeps a history of all changes, making it easy to revert to previous versions if needed.
+ 
+ Types
 
- GIT ARCHITECTURE:
+1. Local Version Control
+
+Keeps track of changes on your own computer.
+Simple, but risky if your computer fails.
+
+2. Distributed Version Control
+
+Every user has a full copy of the project history.
+Examples: Git, Mercurial.
+Safer and great for collaboration.
+ 
+ Why Future Coders Must Learn Git
+
+Git is essential because it helps you track code changes, work with others smoothly, and showcase your projects. Almost every software job requires Git skills, especially for contributing to open source and team projects.
+
+  GIT ARCHITECTURE:
 
  1 Repository (Repo):
 
@@ -27,8 +44,15 @@ VERSION CONTROL:
    It allow you to prepare exactly what will go into the next commit.
    Acts as a buffer between the working directory and the repository.
 
+   <img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/a8b22352-df8d-4f28-ad32-0118ca4e9301" />
 
-   How to Use Git?  (With Command Line
+ How to Use Git?  (With Command Line)
+
+ 1. Go to GitHub and create a new repository.
+
+
+
+   
 
    
 
